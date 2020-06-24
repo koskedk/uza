@@ -1,0 +1,11 @@
+body {
+    background-color: whitesmoke;
+    color: wheat;
+}
+
+nav.topnav {
+    position: fixed;
+    width: 100vw;
+    top: 0px;
+    z-index: 100;
+}
